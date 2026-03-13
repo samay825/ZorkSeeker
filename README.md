@@ -375,6 +375,23 @@ Contributions are welcome! Here's how you can help:
 
 <br>
 
+## 🙏 Credits & Acknowledgements
+
+Some templates in ZorkSeeker are based on the original **[Seeker](https://github.com/thewhiteh4t/seeker)** project by **[@thewhiteh4t](https://github.com/thewhiteh4t)**. Huge respect for the foundational work.
+
+| Template | Credit |
+|----------|--------|
+| **NearYou** | Original by [@thewhiteh4t](https://github.com/thewhiteh4t) |
+| **Google Drive** | Suggested by [@Akaal_no_one](https://github.com/Akaal-no-one) |
+| **WhatsApp** | Suggested by [@Dazmed707](https://github.com/Dazmed707) |
+| **Telegram** | Original by [@thewhiteh4t](https://github.com/thewhiteh4t) |
+| **Zoom** | Made by [@a7maadf](https://github.com/a7maadf) |
+| **Google reCAPTCHA** | Made by [@MrEgyptian](https://github.com/MrEgyptian) |
+
+> All other templates (Instagram, YouTube, Netflix, Dropbox, Teams, Spotify, Custom Link) are original creations by **Zork**.
+
+<br>
+
 ## ⭐ Star History
 
 If you find ZorkSeeker useful, please consider giving it a ⭐ — it helps the project grow!
