@@ -42,10 +42,7 @@
 
 <br>
 
-> **📌 Add your screenshot here:**
-> Place your interface screenshot as `screenshot.png` in the repo root, or update the path below.
-
-<img src="screenshot.png" width="750" alt="ZorkSeeker Interface" />
+<img src="screenshot.png" width="600" style="max-height:400px; object-fit:contain;" alt="ZorkSeeker Interface" />
 
 <br>
 
